@@ -1,3 +1,55 @@
-Announcing the PSF Board Candidates for 2025!
+Joshua Mcshannon Joins the PSF as Infrastructure Engineer
 
-<p>What an exciting list! <b>Please take a look at who is running for the PSF Board this year on the <a href="https://www.python.org/nominations/elections/2025-python-software-foundation-board/nominees/" target="_blank">2025 Nominees page</a>. </b>This year there are 4 seats open on the PSF Board. You can see who is currently on the board on the <a href="https://www.python.org/psf/board/" target="_blank">PSF Officers &amp; Directors page</a>. (Dawn Wages, Jannis Leidel, Kushal Das, and Simon Willison are at the end of their current terms.)&nbsp;<br /></p><h2 style="text-align: left;">Board Election Timeline:</h2><ul style="text-align: left;"><li>Nominations open: Tuesday, July 29th, 2:00 pm UTC</li><li>Nomination cut-off: Tuesday, August 12th, 2:00 pm UTC</li><li>Announce candidates: Thursday, August 14th</li><li>Voter affirmation cut-off: Tuesday, August 26th, 2:00 pm UTC</li><li>Voting start date: Tuesday, September 2nd, 2:00 pm UTC</li><li>Voting end date: Tuesday, September 16th, 2:00 pm UTC</li></ul><p>Not sure what UTC is for you locally? Check this <a href="https://savvytime.com/converter/utc" target="_blank">time converter</a>!&nbsp;<br /></p><h2 style="text-align: left;">Reminder to affirm your intention to vote!</h2><p><b>If you wish to vote in this year’s election, you must affirm your intention to vote no later than Tuesday, August 26th, 2:00 pm UTC, to participate in this year’s election.</b> This year’s Board Election vote begins Tuesday, September 2nd, 2:00 pm UTC, and closes on Tuesday, September 16th, 2:00 pm UTC.&nbsp;</p><p><br />Every PSF Voting Member (Supporting, Contributing, and Fellow) needs to affirm their membership to vote in this year’s election. You should have received an email from "psf@psfmember.org &lt;Python Software Foundation&gt;" with the subject "[Action Required] Affirm your PSF Membership voting intention for 2025 PSF Board Election" that contains information on how to affirm your voting status.&nbsp;<br /><br />Find more information, including step-by-step instructions on voting affirmation, in our&nbsp; ‘<a href="https://pyfound.blogspot.com/2025/07/affirm-your-psf-membership-voting-status.html" target="_blank">Affirm Your PSF Membership Voting Status</a>” blog post. If you run into any issues, please email psf-elections@pyfound.org.<br /></p><h2 style="text-align: left;">Voting: what to expect</h2><p>If you are a voting member of the PSF that affirmed your intention to participate in this year’s election, you will receive an email from “OpaVote Voting Link &lt;noreply@opavote.com&gt;” with your ballot, the subject line will read “Python Software Foundation Board of Directors Election 2025” on September 2nd. If you don’t receive a ballot as expected, please first check your spam folder for a message from “noreply@opavote.com”. If you don’t see anything get in touch by emailing psf-elections@pyfound.org so we can look into your account and make sure we have the most up-to-date email for you.</p><p><br />If you have questions about your membership status or the election, please email psf-elections@pyfound.org. You are welcome to <a href="https://discuss.python.org/t/2025-psf-board-election/89521" target="_blank">join the discussion about the 2025 PSF Board election on the Python Discuss forum</a>.</p>
+<p>
+  The Python Software Foundation (PSF) is excited to announce our newest staff
+  member and Infrastructure Engineer,
+  <a href="https://github.com/jmcshannon">Joshua Mcshannon</a>, reporting to
+  Director of Engineering Jacob Coffee. Joshua brings over 16 years of technical
+  expertise from various backgrounds including bootstrapped startups and big
+  tech. Most recently he built an AI-integrated learning platform for
+  cybersecurity students and taught secure web application development along
+  with DevOps/platform engineering.
+</p>
+
+<div style="padding: 1em 0px; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-dlftuaxO6vA/auj6HezTZ1I/AAAAAAAAA2g/z7Omo6TJqSsmhWqL3Y7pruSitgM24TpnQCK4BGAsYHQ/s1999/image1.jpg">
+    <img alt="Joshua at an outdoor fall festival with a stroller" height="200" src="https://lh3.googleusercontent.com/-dlftuaxO6vA/auj6HezTZ1I/AAAAAAAAA2g/z7Omo6TJqSsmhWqL3Y7pruSitgM24TpnQCK4BGAsYHQ/s200/image1.jpg" style="height: auto;" />
+  </a>
+</div>
+
+<p>
+  Joshua will focus on reducing operational complexity and toil of the PSF
+  infrastructure, optimizing to better serve the community at large and internal
+  PSF platforms that CPython core developers and staff members rely on daily;
+  this includes services like <a href="https://python.org">python.org</a>, PyPI,
+  and infrastructure behind
+  <a href="https://pycon.blogspot.com/2026/09/pycon-us-2026-recap-and-recordings.html">PyCon US</a>.
+  With Joshua on the team, the PSF will gain much needed redundancy for on-call
+  rotations as well as capacity for new infrastructure projects.
+</p>
+
+<p><b><i>“We put people on the moon with a Ti-82, I’m sure we can figure something out.”&nbsp;</i></b></p>
+
+<p>
+  Joshua has already shown great initiative in the work that the PSF has, diving
+  deep into our Kubernetes infrastructure and preparing improvements to keep
+  costs low. Away from the keyboard you’ll find him at a local show, on a nature
+  trail, or at a flea market with his family. Say hello when you see Joshua in
+  the repos, issue trackers, mailing lists, and on
+  <a href="https://discuss.python.org">discuss.python.org</a>!
+</p>
+
+<h2>About the Python Software Foundation</h2>
+
+<p>
+  The Python Software Foundation (PSF) is a non-profit whose mission is to
+  promote, protect, and advance the Python programming language, and to support
+  and facilitate the growth of a diverse and international community of Python
+  programmers. The PSF supports the Python community using corporate
+  sponsorships, grants, and donations. Are you interested in sponsoring or
+  donating to the PSF so it can continue supporting Python and its community?
+  Check out our
+  <a href="https://www.python.org/sponsors/application/">sponsorship program</a>,
+  <a href="https://psfmember.org/civicrm/contribute/transact?reset=1&amp;id=2">donate directly here</a>,
+  or contact our team!
+</p>
